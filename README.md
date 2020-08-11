@@ -1,7 +1,7 @@
 # devfolio
 A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
 
-View the [demo here](https://ariawangxh.github.io/devfolio/).
+View the [demo here](https://mmacneil.github.io/devfolio/).
 
 ### Desktop version
 <img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-desktop.gif" />
